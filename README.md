@@ -1,6 +1,6 @@
 # Ghost world
 
-## Live Link: 
+## Live Link: https://ghost-world.vercel.app/
 
 ## Technologies
   #Nuxt3
