@@ -1,6 +1,6 @@
-# Marbel world
+# Ghost world
 
-## Live Link: https://marbel-world.vercel.app/
+## Live Link: 
 
 ## Technologies
   #Nuxt3
